@@ -1,0 +1,146 @@
+.block_1 {
+ width: 0;
+ height: 0;
+ border: 100px solid transparent;
+ border-top: 0px solid mistyrose;
+ border-right: 1280px solid mistyrose;
+ top: 0px;
+ position: absolute;
+ }
+ .block_2 {
+ width: 0;
+ height: 0;
+ position: absolute;
+ border: 200px solid transparent;
+ border-left: 380px solid darkgray;
+ border-top: 0px solid darkgray;
+ top: 0px;
+ }
+
+ .vl{
+        border-left:380px solid lightgray;
+        height: 980px;
+        position: absolute;
+        left: 0%;
+        margin-left: 0px;
+        top:0 ;
+
+    }
+
+ .round {
+        border-radius:50%;
+        border:3px solid mistyrose;
+        box-shadow: 0 0 7px #666;
+        position: absolute;
+        left: 100px;
+        margin-left: 0px;
+        top:30px ;
+        width: 150px;
+    }
+
+body {background:gainsboro;
+}
+.text{
+        color:#8C8F8F;
+        margin: 80px 380px 80px;
+    }
+.text_c{
+        color:#808080;
+        margin: 10px 50px 20px;
+        position: absolute;
+    }
+.hr{
+        border-left:280px solid #808080;
+        height: 1px;
+        position: absolute;
+        margin: 50px 50px 100px
+        
+    }
+.text_e{
+        color:#808080;
+        margin: 50px 50px 20px;
+        position: absolute;
+    }
+.contact__value{
+        margin: 50px 110px 20px;
+        position: absolute;
+    }
+.text_p{
+        color:#808080;
+        margin: 70px 50px 100px;
+        position: absolute;
+    }
+.phone{
+        margin: 70px 170px 100px;
+        position: absolute;
+    }
+.text_s{
+        color:#808080;
+        margin: 130px 50px 20px;
+        position: absolute;
+    }
+.hr2{
+        border-left:280px solid #808080;
+        height: 1px;
+        position: absolute;
+        margin: 150px 50px 100px
+        
+    }
+.Skills{
+        color:#808080;
+        margin: 160px 50px 40px;
+        position: absolute;
+        
+    }
+.text_l{
+        color:#808080;
+        margin: 200px 50px 20px;
+        position: absolute;
+    }
+.hr3{
+        border-left:280px solid #808080;
+        height: 1px;
+        position: absolute;
+        margin: 220px 50px 100px
+        
+    }
+.Languages{
+        color:#808080;
+        margin: 230px 50px 20px;
+        position: absolute;
+        
+    }
+.education{
+        color:#000000;
+        margin: 30px 380px 20px;
+    }
+.text_ex{
+        color:#000000;
+        margin: 50px 380px 10px;
+    }
+.experiance{
+        color:#000000;
+        margin: 10px 380px 10px;
+    }
+.interests{
+        color:#000000;
+        margin: 20px 380px 20px;
+        position: absolute;
+
+    }
+.information{
+    color:#000000;
+    margin: 250px 380px 40px;
+    position: absolute;
+}
+.information_style{
+    color:#000000;
+    margin: 270px 380px 20px;
+    position: absolute;
+    float: left;
+}
+.inst{
+    margin: 0px 50px 20px;
+    position: absolute;
+    color: PaleVioletRed;
+}
